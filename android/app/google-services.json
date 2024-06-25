@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981167433013",
+    "firebase_url": "https://mcq-quiz-3ad3b-default-rtdb.firebaseio.com",
+    "project_id": "mcq-quiz-3ad3b",
+    "storage_bucket": "mcq-quiz-3ad3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981167433013:android:85837c2c3338f131e3187c",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981167433013-fl4moam56t1mmpm1pqqoo5ogd0in658j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdZgZpHVlkxI2_C2G9L5LLrws3cUKcBo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981167433013-8r9tnh6rb9tirc00d89sm7ngdchvk9qn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "981167433013-tda7tr3qv59u2jirto7qf3brucfv4gma.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.earnestTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
